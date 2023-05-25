@@ -8,7 +8,7 @@ We will use two datasets: the COVID-19 dataset published by John Hopkins Univers
 To achieve this we will merge these two datasets and analyze them to see if there is any correlation between the spread of the virus and happiness levels. Our primary objective was to understand how the COVID-19 pandemic is affecting people's happiness levels. 
 This information could be used to develop policies and programs to help people cope with the pandemic and to improve their happiness levels.
 
-![Image](./covid19_IMG.png)
+![Image](./covid19_IMG.jpeg)
 
 ## The Approach
 Task 1: Introduction
