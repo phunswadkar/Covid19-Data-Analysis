@@ -32,6 +32,4 @@ Import World happiness report dataset, dropping useless columns and Merge it wit
 Visualize our results using Seaborn.
 
 ## Result
-We have found positive correlation among the columns related to Happiness of People living in the country and the spread of corona virus in that country.
-Developed countries are more prone to getting the infection and are more likely be impacted in terms of Happiness Levels and thus more policies and programs
-is required to be implemented to help people cope with pandemic and to improve their happiness levels.
+We have found positive correlation among the columns related to Happiness of People living in the country and the spread of corona virus in that country. Developed countries are more prone to getting the infection and are more likely be impacted in terms of Happiness Levels and thus more policies and programs are required to be implemented to help people cope with pandemic and to improve their happiness levels.
